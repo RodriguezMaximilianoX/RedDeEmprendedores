@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116901634251",
+    "project_id": "red-de-emprendedores-d366a",
+    "storage_bucket": "red-de-emprendedores-d366a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116901634251:android:efd98350728b31de00fb4e",
+        "android_client_info": {
+          "package_name": "com.rmxdev.reddeemprendedores"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBINxjVfKLzWa9FkeEL64Dc4yfHL0Zvdcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
