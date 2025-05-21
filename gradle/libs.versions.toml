@@ -13,7 +13,7 @@ googleServices = "4.4.2"
 firebaseBom = "33.13.0"
 crashlytics = "3.0.3"
 navigationCompose = "2.9.0"
-googleFonts = "1.8.1"
+googleFonts = "1.8.2"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
